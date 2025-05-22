@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/User/SYSTEM_FILES/avast-asd/dsa-playground/src/hms-templates/v_01",
+      "program": "c:/Users/User/SYSTEM_FILES/avast-asd/dsa-playground/src/hms-templates/v_01/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
